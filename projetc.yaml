@@ -1,0 +1,16 @@
+project:
+  name: JavaScript Avançado
+  author: Kaio
+  level: Avançado
+  language: JavaScript
+  description: >
+    Repositório de estudos avançados em JavaScript,
+    abordando conceitos fundamentais e modernos da linguagem.
+  topics:
+    - Closure
+    - Promises
+    - Fetch API
+    - Protótipos
+    - Modules
+    - This
+    - Debug no Chrome
